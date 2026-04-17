@@ -56,6 +56,8 @@ gtkwave wave.vcd
 - slave_rxShift
 - state
 
+![波形图](./assets/wave.png)
+
 ## Verified Run Result
 
 以下是当前实现的实际仿真日志（Bluesim）：
